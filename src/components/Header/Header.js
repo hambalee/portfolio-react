@@ -1,5 +1,6 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
+import CV from "../../Assets/CV.pdf"
 
 const Header = ({ toggle }) => {
   return (
@@ -25,7 +26,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="/CV"
+            href={CV}
             target="_blank"
             rel="noopener noreferrer"
           >

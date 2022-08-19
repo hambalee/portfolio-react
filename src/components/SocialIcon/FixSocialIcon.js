@@ -52,7 +52,7 @@ function FixSocialIcon() {
             <FaGithub />
           </a>
         </li>
-        <li className="item">
+        {/* <li className="item">
           <a
             href="https://github.com/hambalee"
             target="_blank"
@@ -60,7 +60,7 @@ function FixSocialIcon() {
           >
             <FaInstagram />
           </a>
-        </li>
+        </li> */}
       </ul>
     </Social>
   );
