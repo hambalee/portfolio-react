@@ -9,15 +9,6 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-    title: "Fiber",
-    description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
-  },
-  {
     img: "https://raw.githubusercontent.com/hambalee/portfolio-react/main/src/Assets/portfolio.png",
     title: "Portfolio",
     description: "My personal portfolio website.",
