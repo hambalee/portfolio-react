@@ -2,9 +2,9 @@
 export const ProjectList = [
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
+    title: "IMMIFIT - Exercise Activity Tracker App.",
+    description: "An exercise activity tracker app, keep activities to website ",
+    tech_stack: "MongoDB, Express, React, Node.js",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",
   },
@@ -18,19 +18,19 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "https://raw.githubusercontent.com/hambalee/portfolio-react/main/src/Assets/portfolio.png",
     title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
+    description: "My personal portfolio website.",
     tech_stack: "Reactjs, Css",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link/",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
+    title: "POSSMS - Point of Sale and Stock Management System",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
+      "Created POS website using Vue and Vuetify as a fontend and Firebase Firestore as a backend.",
+    tech_stack: "Vue, Firebase",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",
   },
@@ -40,7 +40,7 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
+    img: "https://raw.githubusercontent.com/hambalee/portfolio-react/main/src/Assets/skill/html5.svg",
     name: "HTML",
   },
   {
