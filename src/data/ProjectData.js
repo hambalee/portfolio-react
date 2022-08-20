@@ -1,5 +1,7 @@
 // --------------------------------------- Project List
-import portfolio from "../Assets/portfolio.png"
+import findyourhat from "../Assets/findyourhat.png"
+import jamming from "../Assets/jamming.png"
+import pos from "../Assets/pos.png"
 import html5 from "../Assets/skill/html5.svg"
 import bootstrap from "../Assets/skill/bootstrap.svg"
 import css3 from "../Assets/skill/css3.svg"
@@ -18,46 +20,46 @@ import firebase from "../Assets/skill/firebase.svg"
 
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
+    img: "",
     title: "IMMIFIT - Exercise Activity Tracker App.",
     description: "An exercise activity tracker app, keep track and show all list of activities.",
     tech_stack: "MongoDB, Express, React, Node.js",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    github_url: "",
+    demo_url: "",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
+    img: jamming,
     title: "Jamming - Spotify Playlist Creator App",
     description:
       "A Spotify playlist creator, Built website with React and use API to save playlist to Spotify.",
     tech_stack: "HTML, CSS, JavaScript, React",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/hambalee/jsd-jammming-assessment-function",
+    demo_url: "https://jamming-hambalee.surge.sh/",
   },
   {
-    img: portfolio,
+    img: findyourhat,
     title: "Find Your Hat Game",
     description: "Build an interactive terminal game with the scenario that the player has lost their hat in a field full of holes, and must navigate back to it without falling down one of the holes or stepping outside of the field.",
     tech_stack: "JavaScript, Node.js",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    github_url: "https://github.com/hambalee/Find-Your-Hat-Game-JavaScript",
+    demo_url: "https://replit.com/@hambalee/Find-Your-Hat?v=1",
   },
   {
-    img: portfolio,
+    img: "https://api.apify.com/v2/key-value-stores/kJFN1NnO9PmePSCtH/records/hambalee.github.io-scroll_original",
     title: "Colmar Academy - Landing page for a school.",
     description: "Build a Website with HTML, CSS, and Github Pages.",
     tech_stack: "JavaScript, Node.js",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    github_url: "https://github.com/hambalee/hambalee.github.io/tree/main/colmar",
+    demo_url: "https://hambalee.github.io/colmar/",
   },
   {
-    img: "",
+    img: pos,
     title: "POSSMS - Point of Sale and Stock Management System",
     description:
       "Created POS website using Vue and Vuetify as a fontend and Firebase Firestore as a backend.",
     tech_stack: "Vue, Firebase",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    github_url: "",
+    demo_url: "",
   },
 ];
 
