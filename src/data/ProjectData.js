@@ -17,10 +17,11 @@ import express from "../Assets/skill/express.svg"
 import sqlite from "../Assets/skill/sqlite.svg"
 import mysql from "../Assets/skill/mysql.svg"
 import firebase from "../Assets/skill/firebase.svg"
+import immifit from "../Assets/skill/immifit.svg"
 
 export const ProjectList = [
   {
-    img: "",
+    img: immifit,
     title: "IMMIFIT - Exercise Activity Tracker App.",
     description: "An exercise activity tracker app, keep track and show all list of activities.",
     tech_stack: "MongoDB, Express, React, Node.js",
