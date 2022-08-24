@@ -17,7 +17,7 @@ import express from "../Assets/skill/express.svg"
 import sqlite from "../Assets/skill/sqlite.svg"
 import mysql from "../Assets/skill/mysql.svg"
 import firebase from "../Assets/skill/firebase.svg"
-import immifit from "../Assets/immifit.svg"
+import immifit from "../Assets/immifit.png"
 
 export const ProjectList = [
   {
