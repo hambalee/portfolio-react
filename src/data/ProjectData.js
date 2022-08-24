@@ -25,8 +25,8 @@ export const ProjectList = [
     title: "IMMIFIT - Exercise Activity Tracker App.",
     description: "An exercise activity tracker app, keep track and show all list of activities.",
     tech_stack: "MongoDB, Express, React, Node.js",
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/hambalee/Final-project-Generation",
+    demo_url: "https://immifit-mu.vercel.app/",
   },
   {
     img: jamming,
