@@ -18,6 +18,7 @@ import sqlite from "../Assets/skill/sqlite.svg"
 import mysql from "../Assets/skill/mysql.svg"
 import firebase from "../Assets/skill/firebase.svg"
 import immifit from "../Assets/immifit.png"
+import colmar from "../Assets/colmar-scroll_lossy-comp"
 
 export const ProjectList = [
   {
@@ -46,7 +47,7 @@ export const ProjectList = [
     demo_url: "https://replit.com/@hambalee/Find-Your-Hat?v=1",
   },
   {
-    img: "https://api.apify.com/v2/key-value-stores/kJFN1NnO9PmePSCtH/records/hambalee.github.io-scroll_original",
+    img: colmar,
     title: "Colmar Academy - Landing page for a school.",
     description: "Build a Website with HTML, CSS, and Github Pages.",
     tech_stack: "JavaScript, Node.js",
